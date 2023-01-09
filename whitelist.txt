@@ -19,3 +19,4 @@
 @@||datadoghq.com
 @@||app.datadoghq.com
 @@||static.datadoghq.com
+@@||launchdarkly.com
