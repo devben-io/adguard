@@ -2,4 +2,5 @@
 @@ || app.datadoghq.eu
 @@ || static.datadoghq.eu
 @@ || datadoghq.com
+@@ || app.datadoghq.com
 @@ || static.datadoghq.com
