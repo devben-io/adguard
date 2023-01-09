@@ -1,3 +1,5 @@
+@@||aws.amazon.com
+@@||console.aws.amazon.com
 @@||etoro.com
 @@||www.etoro.com
 @@||media.licdn.com
