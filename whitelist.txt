@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||amazon.de
 @@||fonts.gstatic.com
 @@||etoro.com
 @@||www.etoro.com
@@ -22,3 +23,4 @@
 @@||app.datadoghq.com
 @@||static.datadoghq.com
 @@||launchdarkly.com
+
