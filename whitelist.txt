@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||tradingview.com
 @@||amazon.de
 @@||fonts.gstatic.com
 @@||etoro.com
