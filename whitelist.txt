@@ -1,6 +1,6 @@
-@@ || datadoghq.eu
-@@ || app.datadoghq.eu
-@@ || static.datadoghq.eu
-@@ || datadoghq.com
-@@ || app.datadoghq.com
-@@ || static.datadoghq.com
+@@||datadoghq.eu
+@@||app.datadoghq.eu
+@@||static.datadoghq.eu
+@@||datadoghq.com
+@@||app.datadoghq.com
+@@||static.datadoghq.com
