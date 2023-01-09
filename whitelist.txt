@@ -5,9 +5,10 @@
 @@||aws.amazon.com
 @@||console.aws.amazon.com
 
-#linkedin
+#social media
 @@||media.licdn.com
 @@||static.licdn.com
+@@||cdninstagram.com
 
 #misc
 @@||etoro.com
