@@ -1,3 +1,4 @@
+@@||static.licdn.com
 @@||s.deepl.com
 @@||datadoghq.eu
 @@||app.datadoghq.eu
