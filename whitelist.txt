@@ -1,9 +1,15 @@
+#aws
+@@||amazonaws.com
 @@||aws.amazon.com
 @@||console.aws.amazon.com
-@@||etoro.com
-@@||www.etoro.com
+
+#linkedin
 @@||media.licdn.com
 @@||static.licdn.com
+
+#misc
+@@||etoro.com
+@@||www.etoro.com
 @@||s.deepl.com
 @@||datadoghq.eu
 @@||app.datadoghq.eu
