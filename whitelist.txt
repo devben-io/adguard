@@ -11,7 +11,7 @@
 @@||cdninstagram.com
 
 #misc
-@@||gstatic.com
+@@||fonts.gstatic.com
 @@||etoro.com
 @@||www.etoro.com
 @@||s.deepl.com
