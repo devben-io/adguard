@@ -1,4 +1,6 @@
 #aws
+@@||aws.com
+@@||aws.dev
 @@||amazonaws.com
 @@||aws.amazon.com
 @@||console.aws.amazon.com
