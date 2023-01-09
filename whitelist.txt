@@ -1,0 +1,4 @@
+@@ || datadoghq.eu
+@@ || app.datadoghq.eu
+@@ || datadoghq.com
+@@ || app.datadoghq.com
