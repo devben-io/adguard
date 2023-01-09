@@ -1,3 +1,4 @@
+@@||s.deepl.com
 @@||datadoghq.eu
 @@||app.datadoghq.eu
 @@||static.datadoghq.eu
