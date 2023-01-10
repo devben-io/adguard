@@ -12,7 +12,6 @@
 
 #misc
 @@||feedly.com
-@@||feeds.br.de
 @@||tradingview.com
 @@||amazon.de
 @@||fonts.gstatic.com
