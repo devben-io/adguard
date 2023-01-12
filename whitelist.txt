@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||gravatar.com
 @@||api.coingecko.com
 @@||maersk.com
 @@||feedly.com
