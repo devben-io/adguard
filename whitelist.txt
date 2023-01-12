@@ -22,6 +22,8 @@
 @@||s.deepl.com
 @@||datadoghq.eu
 @@||sentry.io
+@@||getsentry.net
+@@||sentry-cdn.com
 @@||app.datadoghq.eu
 @@||static.datadoghq.eu
 @@||datadoghq.com
