@@ -11,6 +11,8 @@
 @@||cdninstagram.com
 
 #misc
+@@||intercom.io
+@@||intercomassets.com
 @@||wired.com
 @@||gravatar.com
 @@||api.coingecko.com
