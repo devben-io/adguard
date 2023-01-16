@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||assets.adobedtm.com
 @@||ctfassets.net
 @@||translate.googleapis.com
 @@||intercom.io
