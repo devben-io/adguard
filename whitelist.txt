@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||activation.synology.com
 @@||apple.com
 @@||dhl.com
 @@||dhl.de
