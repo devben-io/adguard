@@ -20,6 +20,7 @@
 @@||translate.googleapis.com
 @@||drive-thirdparty.googleusercontent.com
 @@||intercom.io
+@@||intercom.com
 @@||intercomassets.com
 @@||intercomcdn.com
 @@||wired.com
