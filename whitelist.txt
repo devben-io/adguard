@@ -18,6 +18,7 @@
 @@||assets.adobedtm.com
 @@||ctfassets.net
 @@||translate.googleapis.com
+@@||drive-thirdparty.googleusercontent.com
 @@||intercom.io
 @@||intercomassets.com
 @@||wired.com
