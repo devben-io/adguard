@@ -21,6 +21,7 @@
 @@||drive-thirdparty.googleusercontent.com
 @@||intercom.io
 @@||intercomassets.com
+@@||intercomcdn.com
 @@||wired.com
 @@||gravatar.com
 @@||api.coingecko.com
