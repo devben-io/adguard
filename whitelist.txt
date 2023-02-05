@@ -12,6 +12,7 @@
 
 #misc
 @@||activation.synology.com
+@@||synology.com
 @@||apple.com
 @@||dhl.com
 @@||dhl.de
