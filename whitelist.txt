@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||typeform.com
 @@||activation.synology.com
 @@||synology.com
 @@||apple.com
