@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||office.net
 @@||cvent.com
 @@||stripe.com
 @@||todoist.com
