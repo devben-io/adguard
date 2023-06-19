@@ -11,6 +11,7 @@
 @@||cdninstagram.com
 
 #misc
+@@||officeclient.microsoft.com
 @@||teams.office.com
 @@||office.net
 @@||cvent.com
