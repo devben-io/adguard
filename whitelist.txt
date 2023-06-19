@@ -12,6 +12,7 @@
 
 #misc
 @@||officeclient.microsoft.com
+@@||teams.microsoft.com
 @@||teams.office.com
 @@||office.net
 @@||cvent.com
