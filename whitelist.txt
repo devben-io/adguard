@@ -12,6 +12,7 @@
 
 #misc
 @@||officeclient.microsoft.com
+@@||odc.officeapps.live.com
 @@||teams.microsoft.com
 @@||teams.office.com
 @@||teams.events.data.microsoft.com^$important
