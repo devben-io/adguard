@@ -12,6 +12,7 @@
 
 #misc
 @@||officeclient.microsoft.com
+@@||login.microsoftonline.com
 @@||odc.officeapps.live.com
 @@||teams.microsoft.com
 @@||teams.office.com
