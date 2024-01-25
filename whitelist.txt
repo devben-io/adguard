@@ -16,7 +16,8 @@
 @@||odc.officeapps.live.com
 @@||teams.microsoft.com
 @@||teams.office.com
-@@||teams.events.data.microsoft.com^$important
+@@||teams.events.data.microsoft.com
+@@||emea.cc.skype.com
 @@||office.net
 @@||cvent.com
 @@||stripe.com
