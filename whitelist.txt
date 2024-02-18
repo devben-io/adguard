@@ -59,3 +59,5 @@
 @@||launchdarkly.com
 @@||pdst.fm
 
+# gaming
+@@||dmx.upc.ubisoft.com
