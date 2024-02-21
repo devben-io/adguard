@@ -68,3 +68,4 @@
 
 # gaming
 @@||dmx.upc.ubisoft.com
+@@||steamusercontent-a.akamaihd.net
