@@ -10,6 +10,12 @@
 @@||static.licdn.com
 @@||cdninstagram.com
 
+#apple
+@@||updates.cdn-apple.com
+@@||entitlements.edge-itunes-apple.com.akadns.net
+@@||musicstatus-eu.edge-itunes-apple.com.akadns.net
+@@||apple.com
+
 #misc
 @@||officeclient.microsoft.com
 @@||login.microsoftonline.com
@@ -25,7 +31,6 @@
 @@||typeform.com
 @@||activation.synology.com
 @@||synology.com
-@@||apple.com
 @@||dhl.com
 @@||dhl.de
 @@||assets.adobedtm.com
