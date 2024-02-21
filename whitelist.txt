@@ -11,6 +11,8 @@
 @@||cdninstagram.com
 
 #apple
+@@||buy.itunes-apple.com.akadns.net
+@@||gsas.idms-apple.com.akadns.net
 @@||updates.cdn-apple.com
 @@||entitlements.edge-itunes-apple.com.akadns.net
 @@||musicstatus-eu.edge-itunes-apple.com.akadns.net
