@@ -19,6 +19,7 @@
 @@||apple.com
 
 #misc
+@@||aqueduct.revolut.com
 @@||officeclient.microsoft.com
 @@||login.microsoftonline.com
 @@||odc.officeapps.live.com
