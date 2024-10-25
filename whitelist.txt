@@ -67,6 +67,8 @@
 @@||launchdarkly.com
 @@||pdst.fm
 
+# Hoster
+@@||mega.co.nz
 # gaming
 @@||dmx.upc.ubisoft.com
 @@||steamusercontent-a.akamaihd.net
