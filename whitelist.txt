@@ -69,6 +69,8 @@
 
 # Hoster
 @@||mega.co.nz
+@@||one.com
+
 # gaming
 @@||dmx.upc.ubisoft.com
 @@||steamusercontent-a.akamaihd.net
