@@ -66,6 +66,23 @@
 @@||static.datadoghq.com
 @@||launchdarkly.com
 @@||pdst.fm
+@@||newsroom.bi^$important
+@@||interactive.spiegel.de^$important
+@@||cdn.prod.www.spiegel.de^$important
+@@||einundzwanzig.space^$important
+@@||b.cdnst.net^$important
+@@||ast.bild.de^$important
+@@||nzz-q-assets.static-nzz.ch^$important
+@@||rosetta.prod.ps.bild.de^$important
+@@||images.bild.de^$important
+@@||a.bildstatic.de^$important
+@@||at.cbsi.com^$important
+@@||assets1.cbsnewsstatic.com^$important
+@@||assets3.cbsnewsstatic.com^$important
+@@||assets.static-nzz.ch^$important
+@@||cdn.jwplayer.com^$important
+@@||feeds.yellowball.fm^$important
+@@||windy.com^$important
 
 # Hoster
 @@||mega.co.nz
@@ -77,3 +94,7 @@
 
 # Nostr
 @@||nostr.*^
+@@||relay.*^
+@@||mostr.pub^$important
+@@||momostr.pink^$important
+@@||relay.exit.pub^$important
