@@ -1,2 +1,2 @@
-||telemetry.tradingview.com^
-||insight.synology.com^
+||telemetry.tradingview.com^$important
+||insight.synology.com^$important
